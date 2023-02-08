@@ -1,3 +1,13 @@
-# Hi i'm Noah Brennan
+Noah's personal Memex
 
-Just making a edit to trigger the 'action' that will build a website for us.
+Sources:
+
+[[Amherst method source]]
+
+[[As we think source]] 
+
+[[The graden and the stream source]] 
+
+[[Media as historical subject source]] 
+
+[[Sources/Jiki source]] 
