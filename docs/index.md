@@ -1,6 +1,6 @@
 # Noah's personal Memex
 
-Sources:
+Sources: 
 
 [[Amherst method source]]
 
