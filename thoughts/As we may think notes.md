@@ -10,3 +10,6 @@
 -   He also predicts that the Memex could have a major impact on fields such as science, medicine, and engineering by allowing experts to access and share information more easily.
 
 -   In conclusion, Bush argues that the development of the Memex represents a new way of thinking about information and that it has the potential to change the world.
+
+
+Related links: [[As we think source]] 
