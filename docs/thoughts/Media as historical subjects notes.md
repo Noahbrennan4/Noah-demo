@@ -8,3 +8,6 @@
 -   The book raises questions about whether media history should be seen as a sequence of separate ages with ruptures or revolutions, or as an evolution or progress.
 - The use of the word "media" in English creates a false impression of it being a single entity, like a natural phenomenon.
 -   The author wants to clarify the definition of media and its history, with a focus on early recorded sound.
+
+
+[[Media as historical subject source]] 

@@ -5,3 +5,6 @@
 -   The author argues that our current situation, where technology is often seen as separate from and hostile to nature, is unsustainable and that we need to work towards a more integrated view of technology and the environment
 -   To achieve a true technopastoral society, the author suggests that we need to embrace a holistic approach that takes into account the interdependence of technology, nature, and culture
 -   The author concludes that the technopastoral ideal offers us a vision of a future in which technology and nature can coexist in balance, creating a more sustainable and harmonious world.
+
+
+[[The graden and the stream source]] 

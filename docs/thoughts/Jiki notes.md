@@ -7,3 +7,7 @@
 -   Written by the Buddhist monk Baegun
 -   Contains teachings on morality, meditation, and wisdom
 -   An important cultural artifact representing the history of printing technology and Korean Buddhist culture.
+
+
+
+Related links: [[Jiki source]] 
