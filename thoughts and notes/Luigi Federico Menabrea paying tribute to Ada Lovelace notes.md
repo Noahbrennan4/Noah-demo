@@ -1,0 +1,7 @@
+
+# Summary and key notes:
+Ada Lovelace was a brilliant mathematician and writer who is often credited with creating the first computer program in history.Her work on Charles Babbage's Analytical Engine and her notes on the machine included a sequence of instructions for its operation that are considered the first computer program.Her achievements were celebrated by the mathematician Luigi Federico Menabrea, who wrote an article in French in 1842 that described Babbage's engine and included a translation of Lovelace's notes.Menabrea's article is considered an important historical document because it was the first publication to introduce Lovelace's work to a wider audience and to recognize its significance.
+# My thoughts 
+The article  highlights Menabrea's own contributions to the development of computing, including his proposal for a punched card system that could be used to control the Analytical Engine. Menabrea's article was later translated into English by Lovelace herself and published in 1843, with additional notes and comments that she had written.Despite her pioneering work, Lovelace's contributions to computing were largely overlooked for many years, and it was only in the 20th century that she began to be recognized as a key figure in the history of computing and a role model for women in science and technology.
+
+Related link : [[Luigi Federico Menabrea paying tribute to Ada Lovelace source]] 
