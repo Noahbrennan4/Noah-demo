@@ -18,3 +18,13 @@
 [[Luigi Federico Menabrea paying tribute to Ada Lovelace source]]
 
 [[Telecommunications and Colonial Rivalry source]] 
+
+[[My secret life as an 11-year-old BBS sysop source]]
+
+[[The science of computing source]]
+
+[[The birth of the modem world source]]
+
+[[Anatomy of a AI system notes]]
+
+[[Internet Myth source]] 
